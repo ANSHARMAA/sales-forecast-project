@@ -40,7 +40,7 @@ sales-forecast-project/
 ## ⚙️ Installation
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/ANSHARMAA/sales-forecast-project.git>
 cd sales-forecast-project
 pip install -r requirements.txt
 
